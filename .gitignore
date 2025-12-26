@@ -1,6 +1,5 @@
 # File; .gitignore
 
-.vscode
 .python-version
 __pycache__
 .idea
